@@ -27,9 +27,14 @@ deve ser um repositório Git no GitHub contendo uma descrição da atividade e p
 tenhamos links para o Google Colab contendo o resumo do capítulo, Videos, e
 simulações.
 
-# Parte 1 - Cap.4 A transformada-z
+# Parte 1 - Cap.4 A Transformada-Z
 
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1Ootdc0nsao-eUM47dtZJtSBjl_D2BpQx?usp=sharing)
 - [Video 1 - Introdução e Região de Convergência (Ester Velasquez)](https://www.youtube.com/watch?v=a4ilqPa6l34&pp=ygUOdHJhbnNmb3JtYWRhIHo%3D)
 - [Video 2 - Solução de Equações de Diferenças (parte 1)](https://youtu.be/5ZGm6NEYwAo?si=ZZqN5rxNbniUa52h)
-- [Video 4 - Solução de Equações de Diferenças (parte 1)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
+- [Video 3 - Solução de Equações de Diferenças (parte 2)](https://www.youtube.com/watch?v=rr_G6ckhQkU)
+  
+# Parte 2 - Cap.4 Transformada Discreta de Fourier
+- [Link para o Colab com simulações](https://colab.research.google.com/drive/1CRPqzdwTnL2YGUFJciSBVz1RbZm5um4R?usp=sharing)
+- [Video 1 - A Transformada Discreta de Fourier (UNIVESP)](https://youtu.be/acyRz-zGzC0?si=HpYvAeR8b2wYraU_)
+- [Video 2 - FOURIER - Série e transformada (Gustavo Viegaz)](https://youtu.be/n5luJNrV-2I?si=eLcuRgwyAw1sNG6z)
