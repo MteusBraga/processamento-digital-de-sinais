@@ -38,3 +38,7 @@ simulações.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1CRPqzdwTnL2YGUFJciSBVz1RbZm5um4R?usp=sharing)
 - [Video 1 - A Transformada Discreta de Fourier (UNIVESP)](https://youtu.be/acyRz-zGzC0?si=HpYvAeR8b2wYraU_)
 - [Video 2 - FOURIER - Série e transformada (Gustavo Viegaz)](https://youtu.be/n5luJNrV-2I?si=eLcuRgwyAw1sNG6z)
+# Parte 3 - Cap.5 Filtros FIR e IIR
+- [Link para o Colab com simulações](https://colab.research.google.com/drive/1rILLbeWRTEnbJG9p9hceFF5fQNamiq0U?usp=sharing)
+- [Video 1 - O QUE SÃO FILTROS FIR: Filtros Não Recursivos + Média Móvel (Ester Velasquez)](https://youtu.be/BKPWiqm7DGU?si=PMV-GS94BHjRVJGt)
+- [Video 2 - FILTROS IIR: Definição e Comportamento de Filtros Recursivos de 1ª e 2ª Ordem](https://www.youtube.com/watch?v=Fw2dNLTFiV4)
