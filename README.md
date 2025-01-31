@@ -46,3 +46,9 @@ simulações.
 - [Link para o Colab com simulações](https://colab.research.google.com/drive/1lmtC_taZ0jwVBfYH6Jkh66dDQ2kmpGyE?usp=sharing)
 - [Video 1 - Projeto de Filtros FIR (Pedro Souza)](https://www.youtube.com/watch?v=u_tFWolPZY0&pp=ygUWcHJvamV0byBkZSBmaWx0cm9zIEZJUg%3D%3D)
 - [Video 2 - Projeto de filtros discretos FIR usando janelamento](https://www.youtube.com/watch?v=r79cYQnaFwg&pp=ygUWcHJvamV0byBkZSBmaWx0cm9zIEZJUg%3D%3D)
+# Parte 5 - Projeto de Filtros IIR
+- [Link para o Colab com simulações](https://colab.research.google.com/drive/160TdqVCFpn9d_2XqbxlBtj0mGaLRFzXV?usp=sharing)
+- [Video 1 - DSP COM STM32! PROJETO DE FILTRO IIR](https://www.youtube.com/watch?v=Xl2HJuxykhc&pp=ygUVcHJvamV0byBkZSBmaWx0cm8gaWly)
+- [Video 2 - Projeto de Filtros IIR - método invariância ao impulso](https://www.youtube.com/watch?v=oKni6f--VJ8&pp=ygUVcHJvamV0byBkZSBmaWx0cm8gaWly)
+# Parte 6 - Aplicações em Comunicações
+- [Link para o Colab com simulações](https://colab.research.google.com/drive/1c4xGV85sgf-ujEoKLA-MgPA2P0wBslXf?usp=sharing)
